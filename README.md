@@ -97,12 +97,6 @@
 
 ---
 
-## Статистика GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ARNIK970&show_icons=true&theme=default&hide_title=true)
-
----
-
 <p align="center">
   <i>«Инженер должен развиваться разносторонне, чтобы видеть задачи под разными углами и находить нестандартные решения»</i>
 </p>
